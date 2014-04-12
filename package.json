@@ -1,0 +1,11 @@
+{
+	"name": "CursorJS",
+	"repository": "https://github.com/nmartin413/CursorJS",
+
+	"devDependencies": {
+		"grunt": "*",
+		"jasmine": "*",
+		"node-jasmine": "*"
+	}
+
+}
