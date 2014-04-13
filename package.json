@@ -4,7 +4,6 @@
 
 	"devDependencies": {
 		"grunt": "*",
-		"jasmine": "*",
 		"node-jasmine": "*"
 	}
 

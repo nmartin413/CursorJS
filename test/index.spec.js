@@ -1,5 +1,3 @@
-var vows = require('jasmine'),
-    assert = require('assert');
 
 
 describe('Cursor', function () {
@@ -8,7 +6,7 @@ describe('Cursor', function () {
 	it('should add a point and return correctly', function () {
 
 		Cursor.addPoint(10,20);
-		
+
 		expect(Cursor.x).toBe(10);
 		expect(Cursor.y).toBe(20);
 
